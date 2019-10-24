@@ -1,0 +1,21 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-samsung-galaxy-s9-midnightblack": "^1.0.0",
+		"@framer/framer.device-skin-samsung-galaxy-s9-titaniumgray": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "88a02819-2b6c-4dd8-8461-b0aeb9055483"
+	},
+	"author": "Felix Yuniar",
+	"dependencies": {
+		"@framer/benjamin.twemoji": "^1.1.0",
+		"@framer/colebemis.feather-icons": "^1.2.0"
+	}
+}
