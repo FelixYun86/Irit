@@ -16,6 +16,9 @@
 	"author": "Felix Yuniar",
 	"dependencies": {
 		"@framer/benjamin.twemoji": "^1.1.0",
-		"@framer/colebemis.feather-icons": "^1.2.0"
+		"@framer/colebemis.feather-icons": "^1.2.0",
+		"@framer/iconfinder.social-media": "^1.3.0",
+		"@framer/mickcoelhossla.responsive-frames": "^1.5.0",
+		"@framer/steveruizok.education": "^1.207.0"
 	}
 }
